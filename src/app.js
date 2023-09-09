@@ -30,5 +30,4 @@ const port = process.env.PORT || 5000
 app.listen(port, async () => {
 		console.log(`Server don start for ${port}...`);
 		await connectDb();
-	});
-
+});
