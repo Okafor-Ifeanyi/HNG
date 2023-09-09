@@ -95,12 +95,12 @@
   "type": "module",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nwachee/HNGx.git"
+    "url": "git+https://github.com/Okafor-Ifeanyi/HNG.git"
   },
-  "author": "Nwachee",
+  "author": "Okafor-Ifeanyi",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/nwachee/HNGx/issues"
+    "url": "https://github.com/Okafor-Ifeanyi/HNG/issues"
   },
-  "homepage": "https://github.com/nwachee/HNGx#readme"
+  "homepage": "https://github.com/Okafor-Ifeanyi/HNG#readme"
 }
