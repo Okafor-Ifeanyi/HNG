@@ -14,7 +14,7 @@ export const getTask = async(req, res, next) => {
       // Create an array of day names for reference
       var daysOfWeek = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"];
 
-      const githubFileUrl = `https://github.com/Okafor-Ifeanyi/HNG/`;
+      const githubFileUrl = `https://github.com/Okafor-Ifeanyi/HNG/blob/main/src/app.js`;
       const githubRepoUrl = `https://github.com/Okafor-Ifeanyi/HNG`;
 
       // State all the attributes for the response
