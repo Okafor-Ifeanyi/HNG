@@ -6,7 +6,7 @@ export const getTask = async(req, res, next) => {
 
       // Create a new Date object to represent the current date and time
       const date = new Date()
-      const utcTime = date.toISOString() 
+      const utcTime = date.toISOString().slice(0, 19) + 'Z';
 
       // Use the getDay() method to get the current day of the week as an integer
       var currentDayOfWeek = date.getDay()
